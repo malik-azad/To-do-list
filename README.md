@@ -30,7 +30,7 @@ This is a simple ToDo list web application built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-Live Link: [To Do List Demo](#)(https://malik-azad.github.io/To-do-list/) 
+Live Link: [To Do List Demo](https://malik-azad.github.io/To-do-list/) 
 
 ## Screenshots
 
@@ -40,7 +40,7 @@ updating soon
 
 Contributions are welcome! If you'd like to contribute, please feel free to contact me.
 
-#Made with ❤️ by Malik Azadpur 
+#Made with ❤️ by Malik Azad
 
 
 
