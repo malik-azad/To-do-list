@@ -11,7 +11,7 @@ This is a simple ToDo list web application built with HTML, CSS, and JavaScript.
 - **User-Friendly Interface**: Intuitive design for a seamless user experience.
 - **Responsive Design**: Accessible on various devices for convenience.
 
-## How to Use
+## How to Use:
 
 1. **Adding a Task**: Add a new task and press enter.
 3. **Deleting a Task**: Click the "delete" button to remove a task.
