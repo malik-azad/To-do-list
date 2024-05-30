@@ -40,7 +40,7 @@ updating soon
 
 Contributions are welcome! If you'd like to contribute, please feel free to contact me.
 
-#Made with ❤️ by Malik Azad
+#Made with ❤️ by Malik Azad.
 
 
 
